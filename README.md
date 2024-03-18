@@ -3,7 +3,7 @@
 Urbanization is a defining feature of the contemporary world, with profound implications for both the
 environment and society. As cities grow, knowing the geographical distribution of land use becomes more
 important for successful urban planning and administration. Geospatial analytic approaches provide effective
-tools for analyzing and describing urban settings. This report presents an analysis of urban land use diversity
+tools for analyzing and describing urban settings. This project presents an analysis of urban land use diversity
 utilizing geospatial methods, focusing on a specific study area and employing open-source libraries and raster
 data.
 The analysis uses several open-source Python libraries designed for geographical analysis, including OSMnx,
